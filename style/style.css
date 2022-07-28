@@ -1,3 +1,28 @@
 .image{
     filter: brightness(35%);
 }
+
+@media (max-width: 575.98px) { 
+    .slider{
+        width: auto;
+       
+    }
+    .caption{
+        font-size: auto;
+    }
+    .ca{
+        width:max-content
+        display:flex;
+        flex-direction: column;
+        
+        
+        
+    }
+    .ready{
+        display: block;
+        flex-direction: column;
+    }
+    .trust{
+        display: none;
+    }
+ }

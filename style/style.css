@@ -1,7 +1,9 @@
 .image{
     filter: brightness(35%);
 }
-
+.aa{
+    text-decoration: none;
+}
 @media (max-width: 575.98px) { 
     .slider{
         width: auto;
@@ -11,7 +13,7 @@
         font-size: auto;
     }
     .ca{
-        width:max-content
+        width:max-content;
         display: flex;
         flex-direction: column;
         
